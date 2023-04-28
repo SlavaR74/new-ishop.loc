@@ -1,0 +1,23 @@
+
+[2023-03-13 16:17:13] Текст ошибки: Call to undefined function wfm\debag() | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 41
+=================
+[2023-03-15 18:31:05] Текст ошибки: Undefined array key "actions" | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 34
+=================
+[2023-03-15 18:31:05] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
+=================
+[2023-03-15 18:42:03] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 41
+=================
+[2023-03-15 18:45:48] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 41
+=================
+[2023-03-19 18:26:17] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
+=================
+[2023-04-12 18:39:47] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
+=================
+[2023-04-18 12:07:49] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
+=================
+[2023-04-28 13:54:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
+=================
+[2023-04-28 13:54:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
+=================
+[2023-04-28 13:54:34] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 45
+=================
